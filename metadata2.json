@@ -1,0 +1,8 @@
+{
+  "name": "SSRF-STRUCT-1791658210",
+  "description": "full structure test",
+  "external_url": null,
+  "attributes": [],
+  "fallback_image": "https://uploads.production.enjinusercontent.com/2052e7dd-3f20-427a-8080-8f5d8866b5ab.png",
+  "media": [{"url": "https://uploads.production.enjinusercontent.com/f974a0a8-18e3-4c8c-8d38-a85a459a9cb4.png", "type": "image/png"}]
+}
