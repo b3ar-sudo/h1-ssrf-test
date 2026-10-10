@@ -1,0 +1,6 @@
+{
+  "name": "SSRF-2ND-1791658339",
+  "description": "second-order fetch test",
+  "fallback_image": "https://webhook.site/7c6c5c31-fa76-4d19-944a-a67cc6361610/second-order-fallback",
+  "media": [{"url": "https://webhook.site/7c6c5c31-fa76-4d19-944a-a67cc6361610/second-order-media", "type": "image/png"}]
+}
