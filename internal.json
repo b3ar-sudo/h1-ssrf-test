@@ -1,0 +1,5 @@
+{
+  "name": "INTERNAL-PROBE-1791658408",
+  "fallback_image": "http://169.254.169.254/latest/meta-data/",
+  "media": []
+}
