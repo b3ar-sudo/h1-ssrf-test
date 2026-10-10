@@ -1,0 +1,1 @@
+{"name":"TM-redir-imds-1791660883","fallback_image":"https://httpbin.org/redirect-to?url=http%3A%2F%2F169.254.169.254%3A8383%2F&status_code=302&cb=1791660883"}
