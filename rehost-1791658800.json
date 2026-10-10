@@ -1,0 +1,5 @@
+{
+  "name": "REHOST-1791658800",
+  "fallback_image": "https://cdn.jsdelivr.net/gh/b3ar-sudo/h1-ssrf-test@main/clean-host.png",
+  "media": [{"url": "https://cdn.jsdelivr.net/gh/b3ar-sudo/h1-ssrf-test@main/clean-host.png", "type": "image/png"}]
+}
